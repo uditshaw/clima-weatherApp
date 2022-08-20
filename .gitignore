@@ -31,7 +31,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-.api_key.txt
+
+api_key
 
 # Web related
 lib/generated_plugin_registrant.dart
